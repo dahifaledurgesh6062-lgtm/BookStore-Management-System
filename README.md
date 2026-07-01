@@ -65,8 +65,4 @@ README.md
 
 **Durgesh Dahifale**
 
-Bachelor of Engineering (Electronics & Telecommunication)
-
-SKN Sinhgad Institute of Technology & Science, Lonavala
-
 GitHub: https://github.com/dahifaledurgesh6062-lgtm
